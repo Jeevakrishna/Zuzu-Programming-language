@@ -3,7 +3,7 @@
   <img src="icon.png" alt="Zuzu Logo" width="200"/>
 </p>
 
-<h1 align="center">🌼 Zuzu Programming Language</h1>
+<h1 align="center">Welcome to Zuzu!!! </h1>
 
 <p align="center">
   A playful, plant-magic land themed esolang for kids aged 10–14 and especially abled learners. <br>
@@ -11,7 +11,7 @@
 </p>
 
 
-# 🌼 Zuzu Programming Language
+# ⭐ Zuzu Programming Language
 
 **Zuzu** is a kid-friendly, story-driven esolang (esoteric programming language) designed to make learning code magical and accessible. Inspired by [Rajini.cpp](https://github.com/AmruthPillai/rajini.cpp), it introduces key programming concepts in a fun and visual way—ideal for classrooms, clubs, and creative minds.
 
