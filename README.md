@@ -3,7 +3,7 @@
   <img src="icon.png" alt="Zuzu Logo" width="200"/>
 </p>
 
-<h1 align="center">Welcome to Zuzu!!?
+<h1 align="center">Welcome to Zuzu!!!!
 </h1>
 
 <p align="center">
