@@ -12,13 +12,13 @@
 </p>
 
 
-# ⭐ Zuzu Programming Language
+#  Zuzu Programming Language
 
 **Zuzu** is a kid-friendly, story-driven esolang (esoteric programming language) designed to make learning code magical and accessible. Inspired by [Rajini.cpp](https://github.com/AmruthPillai/rajini.cpp), it introduces key programming concepts in a fun and visual way—ideal for classrooms, clubs, and creative minds.
 
-🌱 *"Grow your logic like a garden. Cast spells of code. Learn joyfully!"*
+*"Grow your logic like a garden. Cast spells of code. Learn joyfully!"*
 
-## ✅ Features
+## Features
 
 
 -  Simple syntax (`plant`, `say`, `cast`)
@@ -26,8 +26,8 @@
 -  Use `+` to combine text and variables
 -  Supportive for visual and linguistic learners
 -  Interpreter in Python for easy execution
-
-## 🧪 Sample Program
+  
+## Sample Program
 ```zuzu
 plant name = "Zuzu"
 say "Welcome, " + name
@@ -38,7 +38,7 @@ say "Welcome, " + name
 Welcome , Zuzu
 
 ```
-## ▶️ Run It
+## Run It
 
 Make sure you have Python 3.x installed.
 
@@ -75,7 +75,7 @@ zuzu-lang/
 
 ```
 
-## 🧠 Educational Goals
+##  Educational Goals
 
 - Make programming fun and visual
 - Help students understand logic and flow
@@ -83,7 +83,7 @@ zuzu-lang/
 - Designed with care for neurodiverse learning needs
 
 ## 15 Beginner Exercises (Included)
-✔️ Provided in Zuzu programs.pdf
+Provided in Zuzu programs.pdf
 Includes:
 
 | Topic                             | Symbol |
@@ -107,5 +107,5 @@ See the full examples in Zuzu programs.pdf
 ## Web Compiler (Coming Soon)
 We're building a Zuzu web playground so kids can write, run, and share their Zuzu code without needing to install anything.
 
-🌐 Stay tuned for https://zuzu-lang.dev
+ Stay tuned for https://zuzu-lang.dev
 
