@@ -98,9 +98,9 @@ Includes:
 | 🔎 Logical Ops (>, <, ==, etc.)   | ✅      |
 | 🔀 If Statements                  | ✅      |
 | 🔁 If-Else                        | ✅      |
-| 🔂 For & While Loops              | ✅      |
-| 🪄 Function Definitions           | ✅      |
-| ✨ Return from Functions           | ✅      |
+| For & While Loops              | ✅      |
+| Function Definitions           | ✅      |
+| Return from Functions           | ✅      |
 
 See the full examples in Zuzu programs.pdf
 
