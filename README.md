@@ -97,7 +97,7 @@ Includes:
 | 🔢 Data Types (bool, string, num) | ✅      |
 | 🔎 Logical Ops (>, <, ==, etc.)   | ✅      |
 | 🔀 If Statements                  | ✅      |
-| 🔁 If-Else                        | ✅      |
+| If-Else                        | ✅      |
 | For & While Loops              | ✅      |
 | Function Definitions           | ✅      |
 | Return from Functions           | ✅      |
